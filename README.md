@@ -61,22 +61,10 @@
 
 ---
 
-### 📊 GitHub Stats & Streak
+### 🔥 Streak Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shahriyarrrrr&show_icons=true&rank_icon=github&hide_title=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Shahriyarrrrr&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriyarrrrr&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shahriyarrrrr&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" />
+  <img src="https://streak-stats.demolab.com?user=Shahriyarrrrr&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
